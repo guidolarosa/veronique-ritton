@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { PortableText } from "next-sanity";
 import Link from "next/link";
 import ReactPlayer from "react-player";
